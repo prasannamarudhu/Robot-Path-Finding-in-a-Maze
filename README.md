@@ -1,0 +1,2 @@
+# Robot-Path-Finding-in-a-Maze
+A robot is asked to navigate in a maze. It starts at a specific position in the maze (the starting position) and is asked to try to reach another position in the maze (the goal position). • Positions in the maze will either be open or blocked with an obstacle. • Positions are identified by (x and y) coordinates. The Recursion Algorithm is implemented to find a path for the Robot to navigate in the maze to reach the Goal position avoiding the obstacles
