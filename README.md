@@ -1,4 +1,4 @@
-# Assignment_2
+
 
 ## NOTE: This has been tested on codelite platform only! Also, c++11 has been used for development.
 
@@ -13,9 +13,3 @@
 ### Input file is by default taken from `Assignment` directory i.e. it has been coded with relative path.
 ### If the existing code does not work (i.e. input file error!), please change the following and run the code.
 * line #160 in `main.cpp` where `std::string path` has been defined. Change the value to path in your system before executing the code. (Please specify absolute path!)
-
-## Sample execution:
-Few observations:
-* \# corresponds to obstacle
-* \+ corresponds to partial (when goal is not reached), else path to goal (G) from start (S) node.
-![Sample output](https://github.com/ENPM809Y-Fall2019-Group10/Assignment_2/blob/rachith/sample_output.png)
